@@ -1,0 +1,25 @@
+@font-face{
+    font-family: font1;
+    src:url('../fonts/Quicksand/Quicksand-Light.otf');
+}
+.modify{
+      font-family: font1;
+    font-size: 50px;
+    position: relative;
+}
+.header{
+    height:45%;
+    width:100%;
+    background-image:url('../images/student_background.jpg');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+table tr td{
+    padding:30px;
+}
+.feilds{
+    font-family:font1;
+    padding:20px;
+    border-radius:10px;
+    border:0.5px solid grey;
+}
