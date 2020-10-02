@@ -40,6 +40,7 @@
 </div>
 <div class="col-md-6 col-lg-6 col-sm-12">
 <center><table>
+  <center><span style="font-family:font1;font-size:30px;color:white;">Welcome Mood Indicator</span></center>
 <form action="profile.php"  method="POST">
 <table >
 <th><center><span style="font-family:font1;font-size:30px;color:white;">Admin Login</span></center></th>
